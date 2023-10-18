@@ -1,7 +1,6 @@
-'use strict';
+const sayHello = () => {
+  console.log("hello");
+};
 
-const getMyName = () => 'Glen';
-
-// Usage
-const myName = getMyName();
-console.log(`Hello ${myName}`);
+// Call the function to log "hello" to the console
+sayHello();
