@@ -1,0 +1,15 @@
+{
+  "name": "cit-262-helloworld",
+  "version": "1.0.0",
+  "description": "W06 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "Glen Sadler",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
