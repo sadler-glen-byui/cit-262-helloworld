@@ -1,6 +1,6 @@
-const sayHello = () => {
-  console.log("hello");
-};
 
-// Call the function to log "hello" to the console
-sayHello();
+const getMyName = () => "Glen";
+
+// Usage
+const myName = getMyName();
+console.log(`Hello ${myName}`);
